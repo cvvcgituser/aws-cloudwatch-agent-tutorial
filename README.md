@@ -1,5 +1,5 @@
 This repo holds the configuration file used for the **Autoscaling in AWS with Memory metrics tutorial** on Medium. 
-[https://medium.com/p/c21158176b3d/edit
+[https://medium.com/@lawaladekunle/autoscaling-in-aws-with-memory-metrics-c21158176b3d
 ](Medium Blog Article)
 
 * Download the AWS CloudWatch Agent - [https://amzn.to/2UlHNQD]()
